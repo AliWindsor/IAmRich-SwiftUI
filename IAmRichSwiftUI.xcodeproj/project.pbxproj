@@ -94,9 +94,11 @@
 		AEB9B7B027EC86FD00634B7F /* IAmRichSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				AEB9B7B127EC86FD00634B7F /* IAmRichSwiftUIApp.swift */,
-				AEB9B7B327EC86FD00634B7F /* ContentView.swift */,
 				AEB9B7B527EC86FE00634B7F /* Assets.xcassets */,
+				AEB9B7B127EC86FD00634B7F /* IAmRichSwiftUIApp.swift */,
+				AEB9B84727EC953100634B7F /* Model */,
+				AEB9B84827EC953E00634B7F /* View */,
+				AEB9B84927EC954500634B7F /* ViewModel */,
 				AEB9B7B727EC86FE00634B7F /* Preview Content */,
 			);
 			path = IAmRichSwiftUI;
@@ -125,6 +127,28 @@
 				AEB9B7CE27EC86FE00634B7F /* IAmRichSwiftUIUITestsLaunchTests.swift */,
 			);
 			path = IAmRichSwiftUIUITests;
+			sourceTree = "<group>";
+		};
+		AEB9B84727EC953100634B7F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AEB9B84827EC953E00634B7F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				AEB9B7B327EC86FD00634B7F /* ContentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		AEB9B84927EC954500634B7F /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

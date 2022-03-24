@@ -14,6 +14,7 @@
 		AEB9B7C327EC86FE00634B7F /* IAmRichSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB9B7C227EC86FE00634B7F /* IAmRichSwiftUITests.swift */; };
 		AEB9B7CD27EC86FE00634B7F /* IAmRichSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB9B7CC27EC86FE00634B7F /* IAmRichSwiftUIUITests.swift */; };
 		AEB9B7CF27EC86FE00634B7F /* IAmRichSwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB9B7CE27EC86FE00634B7F /* IAmRichSwiftUIUITestsLaunchTests.swift */; };
+		AEB9B84B27ECEB9000634B7F /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = AEB9B84A27ECEB9000634B7F /* ReadMe.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		AEB9B7C827EC86FE00634B7F /* IAmRichSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IAmRichSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEB9B7CC27EC86FE00634B7F /* IAmRichSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IAmRichSwiftUIUITests.swift; sourceTree = "<group>"; };
 		AEB9B7CE27EC86FE00634B7F /* IAmRichSwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IAmRichSwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AEB9B84A27ECEB9000634B7F /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		AEB9B7A527EC86FD00634B7F = {
 			isa = PBXGroup;
 			children = (
+				AEB9B84A27ECEB9000634B7F /* ReadMe.md */,
 				AEB9B7B027EC86FD00634B7F /* IAmRichSwiftUI */,
 				AEB9B7C127EC86FE00634B7F /* IAmRichSwiftUITests */,
 				AEB9B7CB27EC86FE00634B7F /* IAmRichSwiftUIUITests */,
@@ -257,6 +260,7 @@
 			files = (
 				AEB9B7B927EC86FE00634B7F /* Preview Assets.xcassets in Resources */,
 				AEB9B7B627EC86FE00634B7F /* Assets.xcassets in Resources */,
+				AEB9B84B27ECEB9000634B7F /* ReadMe.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
